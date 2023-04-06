@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T23:18:33Z",
+  "IdClaims": [
+    {
+      "Claim": "t:pauliehedron"
+    },
+    {
+      "Claim": "mdon:@pauliehedron@infosec.exchange"
+    },
+    {
+      "Claim": "gh:pauliehedron"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8d67dd69244f662a706422d7",
+    "Timestamp": "2023-04-06T23:21:48Z",
+    "Signature": "5a1c2750ff4a6e0bc838d301b4059e61d8881aabdd5945368cc9bcf172abe2e469c6a10cd1f4919f6029d3a6a2f50164d7acd240caaa7cf2fc1e43a7e284bcc2e5ab6f16a11c86276e1488b6a678e9d8eb07f499c71b3b58034919be623c495816c5d772a1ee99a384b21e5f53c8eaa7693f955801051a48ca88b80d46019c965a57c826bfb6cd0b71e744d8e9e1a39e95673a72b90db328844deafec7f5f22e18ef5aedaea55e73f52b6bb2aa03125d2511e6ea6e20c381e7bf39df9722b2fddc793215cb878bac23bd9deed848fb842df8a55437e03db8af33db2f416b0edf37d3535b09661a036175166cc4bc249c66b28ddee26f0271570c1ba53ac81c7b"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "ce60a3347322d71dfc9b19c19b8acf1c2adafbe70f2eb83e6fbe0f66099f0645",
+  "ContentToHash": "v1|gh:pauliehedron,mdon:@pauliehedron@infosec.exchange,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:pauliehedron|2023-04-06T23:18:33Z"
+}
